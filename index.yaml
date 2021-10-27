@@ -3,23 +3,23 @@ entries:
   bbb:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-28T00:04:19.880869+08:00"
+    created: "2021-10-28T00:23:46.924186+08:00"
     description: A Helm chart for Kubernetes
-    digest: 757d3f42867296a020739c9b3343873689d45a2a48b530ef597e5424504389fe
+    digest: c8f141e1736522d2553c084a859dcb28e94e10827b846da3fc970c3a68447642
     name: bbb
     type: application
     urls:
-    - https://helloworld.github.io/helm-chart/bbb-0.1.0.tgz
+    - https://244372610.github.io/helm/bbb-0.1.0.tgz
     version: 0.1.0
   helloworld:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-28T00:04:19.881341+08:00"
+    created: "2021-10-28T00:23:46.924745+08:00"
     description: A Helm chart for Kubernetes
-    digest: 3438a40a62392c10b9e4b88f847db0c0c5eb406e7dd497c4364d49c6bb422c6d
+    digest: 7a46281b5b305421652d5013d16f2512f3900fb66578d9fd46fd90d867776c49
     name: helloworld
     type: application
     urls:
-    - https://helloworld.github.io/helm-chart/helloworld-0.1.0.tgz
+    - https://244372610.github.io/helm/helloworld-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-28T00:04:19.880239+08:00"
+generated: "2021-10-28T00:23:46.923508+08:00"
